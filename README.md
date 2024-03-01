@@ -8,7 +8,17 @@ cd .\Scripts
 cd .\activate
 ```
 ### Install Django and mysqlclient
+```
 pip install django
 pip install mysqlclient
-
-Redirect to 
+```
+#### Redirect to 2-crm-crud
+```
+cd 2-crm-crud
+```
+##### Migrate and Runserver
+```
+python manage.py migrate
+python manage.py make migrations
+python manage.py runserver
+```
