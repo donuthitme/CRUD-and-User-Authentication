@@ -11,3 +11,4 @@ pip install django
 pip install mysqlclient
 
 Redirect to 
+	test
