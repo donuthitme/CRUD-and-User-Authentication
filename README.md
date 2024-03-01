@@ -1,7 +1,7 @@
 # CRUD-and-User-Authentication
 
 ## Create a virtual environment:
-py -m venv (name)
+```py -m venv (name)```
 cd (name)
 cd .\Scripts
 cd .\activate
